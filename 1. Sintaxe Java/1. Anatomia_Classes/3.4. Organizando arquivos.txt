@@ -1,0 +1,19 @@
+Algumas abreviações:
+
+    comercial       - com
+    organizacional  - org
+    opensource      - opensource //org
+
+
+Nome da Empresa:
+    - HyperTech
+        -> Pacote comercial
+            com.hypertech.notification
+            com.hypertech.notification.app
+            com.hypertech.notification.util
+            com.hypertech.notification.service
+
+Pessoal:
+    - Nome: Mateus
+        -> Pacote para projeto pessoal
+            edu.mateus.primeirasemana
